@@ -9,5 +9,9 @@ class Dog
 
 end
 
-fido = Dog.new
-fido.name
+kanye = Person.new("Kanye")
+ 
+kanye.name
+ 
+kanye.name = "Yeezy"
+kanye.name
