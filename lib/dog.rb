@@ -2,10 +2,11 @@ class Dog
   def Dog (name)
     @name = name
   end
+
   def Dog name=
 
 
-end
+  end
 
 end
 
