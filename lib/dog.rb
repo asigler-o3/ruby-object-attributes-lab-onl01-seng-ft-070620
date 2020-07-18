@@ -12,5 +12,5 @@ end
 fido = Dog.new("Fido")
 fido.name
 
-kanye.name = "Fido"
+fido.name = "Fido"
 kanye.name
