@@ -10,8 +10,8 @@ class Dog
 end
 
 kanye = Person.new("Kanye")
- 
+
 kanye.name
- 
+
 kanye.name = "Yeezy"
 kanye.name
