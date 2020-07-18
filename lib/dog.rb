@@ -10,7 +10,7 @@ class Dog
 end
 
 fido = Dog.new("Fido")
-kanye.name
+fido.name
 
 kanye.name = "Fido"
 kanye.name
