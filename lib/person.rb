@@ -1,5 +1,5 @@
 class Person
-  def Dog (name)
+  def Person (name)
     @name = name
   end
 
@@ -11,23 +11,23 @@ class Person
     @name = new_name
   end
 
-  def Dog (breed)
-    @breed = breed
+  def Person (job)
+    @job = job
   end
 
-  def breed
-      @breed
+  def job
+      @job
     end
 
-  def breed= (new_breed)
-    @breed = new_breed
+  def job= (new_job)
+    @job = new_
   end
 end
 
-fido = Dog.new
-fido.name = "Fido"
-fido.name
+beyonce = Person.new
+beyonce.name = "Beyonce"
+beyonce.name
 
-fido = Dog.new
-fido.breed = "Beagle"
-fido.breed
+beyonce = Person.new
+beyonce.job = "Singer"
+beyonce.job
